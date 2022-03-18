@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<settings>
+	<!--Location of the Zip files-->
+	<inPath>/Users/matt.howard/Desktop/Widen/In/</inPath>
+	<!--Where the pdfs will end up after the program is run-->
+	<outPath>/Users/matt.howard/Desktop/Widen/Out/</outPath>
+	<!--Determines whether the zip files are deleted or not when finished. (true or false) ONLY-->
+	<deleteZips>true</deleteZips>
+</settings>
